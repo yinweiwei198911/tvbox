@@ -49,9 +49,8 @@
       "changeable": 0,
       "timeout": 60
     },
-    {"key":"49","name":"49┃采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
-        {"key":"玉兔","name":"玉兔┃采集","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1}
-  ],
+    {"key":"49","name":"49┃采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1}
+        ],
   "parses":[
       {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qiyi"],"header":{"User-Agent":""}}
       },
