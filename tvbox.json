@@ -13,6 +13,16 @@
     "ext":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/%E8%A7%82%E5%BD%B1%E5%8F%B0.json"
 },
 {
+  "key":"5.movie",
+  "name":"5.movie",
+  "type":3,
+  "jar":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/XBPQ.jar",
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "changeable":1,
+  "ext":"https://gh.idayer.com/https://raw.githubusercontent.com/yinweiwei198911/tvbox/main/5.movie.json"
+},
+{
     "key":"6v磁力_drpy_js",
     "name":"6v磁力",
     "type":3,
